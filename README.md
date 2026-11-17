@@ -61,8 +61,8 @@ Website ini tidak membutuhkan XAMPP, PHP, MySQL, database, maupun instalasi pack
 - Menu sate kuda dan sate kelinci mengikuti tema yang dipilih untuk proyek; keberadaan menu pada website tidak menyatakan bahwa produk tersebut tersedia di usaha nyata.
 
 ## Identitas mahasiswa
-- Nama: Muhamad Ridho Albukhori
-- NIM: 2559201032
+- Nama: Bagus Adi Putra
+- NIM: 2559201001
 - Program Studi: Sistem Teknologi Informasi
 - Kampus: Universitas Pertiba
 
